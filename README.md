@@ -1,4 +1,4 @@
-- 👋 Hello There!, I’m @Anik-Biswas420
+- 👋 Hello There!, I’m Anik Biswas
 - 👀 I’m interested in Coding, Gaming, Roblox Studio, Music, Edits etc.
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on HTML
